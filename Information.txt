@@ -1,0 +1,11 @@
+Technologies:-
+--> ReactJs
+--> Firebase
+
+Firebase:-
+Authentication (Email and Password)
+Storage
+Firestore Database
+--> users
+--> userChats
+--> chats
